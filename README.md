@@ -36,6 +36,10 @@ func main() {
 
 `go test`
 
+## A little copying is better than a little dependency
+
+Yea, I know that but in my use case is not true :yolo:
+
 ## License
 
 MIT

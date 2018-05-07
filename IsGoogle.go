@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-// IsGoogle should check if a certain address is belong to Google
+// IsGoogle should check if a certain address belongs to Google
 func IsGoogle(addr string) (bool, error) {
 
 	addrs, err := net.LookupAddr(addr)
